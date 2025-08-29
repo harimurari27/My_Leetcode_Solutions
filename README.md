@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
