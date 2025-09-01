@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
+| [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
