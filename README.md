@@ -30,9 +30,11 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
