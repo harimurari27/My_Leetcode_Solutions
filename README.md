@@ -99,5 +99,14 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
