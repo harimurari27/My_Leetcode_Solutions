@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
