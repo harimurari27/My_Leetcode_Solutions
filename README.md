@@ -65,6 +65,7 @@
 | [0036-valid-sudoku](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,8 +118,13 @@
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
