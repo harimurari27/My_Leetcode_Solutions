@@ -72,6 +72,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -87,6 +88,7 @@
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -148,4 +151,5 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
