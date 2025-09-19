@@ -22,6 +22,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -126,6 +129,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
