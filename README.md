@@ -23,6 +23,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -157,4 +161,9 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
