@@ -14,6 +14,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -74,6 +75,7 @@
 | [1006-vowel-spellchecker](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## Geometry
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
@@ -159,6 +163,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
