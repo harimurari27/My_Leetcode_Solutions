@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
