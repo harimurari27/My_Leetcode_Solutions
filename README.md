@@ -17,6 +17,7 @@
 | [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -64,6 +65,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
