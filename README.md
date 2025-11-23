@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [1006-vowel-spellchecker](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
@@ -55,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2887-sort-vowels-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -96,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
