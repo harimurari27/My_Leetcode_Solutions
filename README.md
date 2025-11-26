@@ -20,6 +20,7 @@
 | [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -36,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
@@ -50,6 +52,7 @@
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
