@@ -26,6 +26,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -79,6 +80,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3830-find-closest-person) |
