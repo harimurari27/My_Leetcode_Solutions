@@ -18,6 +18,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2887-sort-vowels-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -110,6 +112,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
