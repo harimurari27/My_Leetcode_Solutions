@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -75,6 +76,7 @@
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -199,5 +201,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
