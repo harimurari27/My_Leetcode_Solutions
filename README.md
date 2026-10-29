@@ -101,6 +101,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3692-majority-frequency-characters](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -172,6 +173,7 @@
 | [2429-design-a-food-rating-system](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3692-majority-frequency-characters](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3797-design-spreadsheet](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
@@ -181,6 +183,7 @@
 ## Counting
 |  |
 | ------- |
+| [3692-majority-frequency-characters](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harimurari27/My_Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
